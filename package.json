@@ -1,0 +1,21 @@
+{
+  "name": "mycalculator-1",
+  "version": "1.0.0",
+  "description": "Creating a Calculator via JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonamenm/myCalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nonamenm/myCalculator/issues"
+  },
+  "homepage": "https://github.com/nonamenm/myCalculator#readme"
+}
